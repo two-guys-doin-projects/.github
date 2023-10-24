@@ -1,5 +1,9 @@
 Jesteśmy grupą studentów współpracujących na zajęciach projektowych. Studiujemy Inżynierię i Analizę Danych na Politechnice Rzeszowskiej im. Ignacego Łukasiewicza.
 
+- Skład drużyny:
+  - [Krystian Urban](https://github.com/kosiarn)
+  - [Filip Walkowicz](https://github.com/FWalkowicz)
+
 # Tematyka
 
 Najczęstszym tematem naszych projektów są aplikacje internetowe często składające się z kilku mikroserwisów.
